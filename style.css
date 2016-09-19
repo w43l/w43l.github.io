@@ -18,4 +18,6 @@ strong { font-weight: bold; }
 .half { width: 50%; }
 .avatar { width: 90%; }
 .clear { clear: both; }
+.bio { text-align: justify; }
+.bio h2 { margin-top: 0; }
 
